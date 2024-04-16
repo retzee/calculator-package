@@ -15,12 +15,12 @@ npm install --save standard-react-calculator
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'standard-react-calculator'
+import CalculatorApp from 'standard-react-calculator'
 import 'standard-react-calculator/dist/index.css'
 
-class Example extends Component {
+class App extends Component {
   render() {
-    return <MyComponent />
+    return <CalculatorApp />
   }
 }
 ```
