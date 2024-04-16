@@ -27,4 +27,4 @@ class App extends Component {
 
 ## License
 
- © [retzee](https://github.com/retzee)
+MIT
