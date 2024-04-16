@@ -1,10 +1,10 @@
 {
-  "name": "standard-react-calculator-v1",
+  "name": "standard-react-calculator",
   "version": "1.0.0",
-  "description": "Made with create-react-library",
+  "description": "A standard calculator made with React",
   "author": "retzee",
   "license": "",
-  "repository": "retzee/standard-react-calculator-v1",
+  "repository": "retzee/standard-react-calculator",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",

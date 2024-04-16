@@ -1,10 +1,10 @@
 import React from 'react'
 
-import { ExampleComponent } from 'standard-react-calculator-v1'
-import 'standard-react-calculator-v1/dist/index.css'
+import { CalculatorApp } from 'standard-react-calculator'
+import 'standard-react-calculator/dist/index.css'
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  return <CalculatorApp />
 }
 
 export default App

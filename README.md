@@ -1,13 +1,13 @@
-# standard-react-calculator-v1
+# standard-react-calculator
 
 > Made with create-react-library
 
-[![NPM](https://img.shields.io/npm/v/standard-react-calculator-v1.svg)](https://www.npmjs.com/package/standard-react-calculator-v1) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/standard-react-calculator.svg)](https://www.npmjs.com/package/standard-react-calculator) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
 ```bash
-npm install --save standard-react-calculator-v1
+npm install --save standard-react-calculator
 ```
 
 ## Usage
@@ -15,8 +15,8 @@ npm install --save standard-react-calculator-v1
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'standard-react-calculator-v1'
-import 'standard-react-calculator-v1/dist/index.css'
+import MyComponent from 'standard-react-calculator'
+import 'standard-react-calculator/dist/index.css'
 
 class Example extends Component {
   render() {

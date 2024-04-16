@@ -1,0 +1,27 @@
+.calculator__output_holder {
+    background: hsl(255, 100%, 100%);
+    font-size: 2rem;
+    padding-block-start: 1rem;
+    padding-block-end: 0.5rem;
+    padding-inline-end: 1.25rem;
+    text-align: end;
+  }
+
+.calculator__output {    
+    background: rgba(37, 59, 131, 1);
+    border-radius:20px;
+    border:1px solid #253b83;
+    margin-left:1.3rem;
+    margin-bottom:0.5rem;
+    color: #ffffff;
+    padding: 1rem 0.3rem;
+    padding-right:1rem;
+  }
+  
+.calculator__output__characters {   
+  font-size: 0.8rem;
+}
+  
+.calculator__output__result {  
+  font-weight: bold; 
+}

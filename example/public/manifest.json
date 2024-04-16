@@ -1,6 +1,6 @@
 {
-  "short_name": "standard-react-calculator-v1",
-  "name": "standard-react-calculator-v1",
+  "short_name": "standard-react-calculator",
+  "name": "standard-react-calculator",
   "icons": [
     {
       "src": "favicon.ico",
