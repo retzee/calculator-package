@@ -4,7 +4,10 @@
   "description": "A standard calculator made with React",
   "author": "retzee",
   "license": "",
-  "repository": "retzee/standard-react-calculator",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/retzee/standard-react-calculator"
+  },
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
